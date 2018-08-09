@@ -6,7 +6,10 @@ namespace GitHubPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Add(int a, int b)
+                {
+
+            }
         }
     }
 }
